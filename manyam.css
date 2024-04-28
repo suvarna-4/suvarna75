@@ -1,0 +1,22 @@
+.a{background-color:rgb(192,192,240);
+}
+.b{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border: 2px solid black;
+    height:300px;
+    width:300px;
+}
+.d{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    
+}
+.f{
+    border: 2px solid black;
+    height:300px;
+    width:300px;
+}
